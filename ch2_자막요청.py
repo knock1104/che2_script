@@ -269,7 +269,7 @@ def main_page():
 # Router
 # ----------------------
 
-st.markdown("### VSCode + Streamlit 자막 업로더")
+st.markdown("### che2 자막 업로더")
 
 if not st.session_state.authed:
     login_page()
